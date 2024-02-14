@@ -27,7 +27,13 @@
 
   
 ### SQL code generation
-
-
+* [SQL AI](https://www.sqlai.ai/)
+* [AI2SQL](https://www.ai2sql.io/)
+* [AI Query](https://aiquery.co/)
+* [Outerbase](https://www.outerbase.com/)
+* [SQL chat](https://www.sqlchat.ai/)
+* [Quills AI](https://www.quills.ai/)
+  
+  
 ### Python for Data Science code generation
 
