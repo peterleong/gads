@@ -13,7 +13,9 @@
 
 ## Generative AI Assistance for Data Science
 ### Synthetic Data
-* [Mostly AI]()
-* [Gretel AI]()
+* [Mostly AI](https://mostly.ai/)
+* [Gretel AI](https://gretel.ai/)
+* [SDV Synthetic Data Vault](https://sdv.dev/)
+* [Datacebo](https://datacebo.com/)
 
   
