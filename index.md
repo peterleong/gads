@@ -8,7 +8,7 @@
   
   
 ## Primer on Data Science
-* []()
+* [Data Science In 5 Minutes](https://youtu.be/X3paOmcrTjQ?si=uOK2DeMR0SpQ1Jh9)
 
 
 ## Generative AI Assistance for Data Science
@@ -17,5 +17,7 @@
 * [Gretel AI](https://gretel.ai/)
 * [SDV Synthetic Data Vault](https://sdv.dev/)
 * [Datacebo](https://datacebo.com/)
+### Data visualization generation
+### SQL code generation
+### Python for Data Science code generation
 
-  
