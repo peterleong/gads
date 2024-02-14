@@ -36,4 +36,14 @@
   
   
 ### Python for Data Science code generation
+* [CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+* [Github CoPilot](https://github.com/features/copilot)
+* [SoureGraph Cody](https://sourcegraph.com/cody)
+* [OpenAI ChatGPT](https://chat.openai.com/)
+* [Microsoft CoPilot])(https://copilot.microsoft.com/)
+* [Google Gemini](https://gemini.google.com/app)
+* [Pandas AI](https://docs.pandas-ai.com/en/latest/)
+  
+  
+
 
