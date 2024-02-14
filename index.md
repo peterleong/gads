@@ -18,7 +18,16 @@
 * [Gretel AI](https://gretel.ai/)
 * [SDV Synthetic Data Vault](https://sdv.dev/)
 * [Datacebo](https://datacebo.com/)
+
+  
 ### Data visualization generation
+* [Akkio](https://www.akkio.com/)
+* [Polymer](https://www.polymersearch.com/)
+* [MonkeyLearn](https://monkeylearn.com/)
+
+  
 ### SQL code generation
+
+
 ### Python for Data Science code generation
 
