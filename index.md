@@ -40,8 +40,8 @@
 * [Github CoPilot](https://github.com/features/copilot)
 * [SoureGraph Cody](https://sourcegraph.com/cody)
 * [OpenAI ChatGPT](https://chat.openai.com/)
-* [Microsoft CoPilot (Formerly Bing Chat))](https://copilot.microsoft.com/)
-* [Google Gemini (Formerly Bard)](https://gemini.google.com/app)
+* [Microsoft CoPilot (formerly Bing Chat)](https://copilot.microsoft.com/)
+* [Google Gemini (formerly Bard)](https://gemini.google.com/app)
 * [Pandas AI](https://docs.pandas-ai.com/en/latest/)
   
   
