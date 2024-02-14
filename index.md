@@ -8,9 +8,10 @@
   
   
 ## Primer on Data Science
-* [Data Science In 5 Minutes](https://youtu.be/X3paOmcrTjQ?si=uOK2DeMR0SpQ1Jh9)
-
-
+* [Data Science In 5 Minutes (YouTube)](https://youtu.be/X3paOmcrTjQ?si=uOK2DeMR0SpQ1Jh9)
+* [How to Build a Machine Learning Model](https://towardsdatascience.com/how-to-build-a-machine-learning-model-439ab8fb3fb1)
+  
+  
 ## Generative AI Assistance for Data Science
 ### Synthetic Data
 * [Mostly AI](https://mostly.ai/)
