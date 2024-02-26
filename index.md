@@ -14,7 +14,7 @@
   
 ## Generative AI Assistance for Data Science
 ### Synthetic Data
-* [VAE Latent Space Explorere](https://taylordenouden.com/VAE-Latent-Space-Explorer/)
+* [VAE Latent Space Explorer](https://taylordenouden.com/VAE-Latent-Space-Explorer/)
 * [Mostly AI](https://mostly.ai/)
 * [Gretel AI](https://gretel.ai/)
 * [SDV Synthetic Data Vault](https://sdv.dev/)
