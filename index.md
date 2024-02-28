@@ -1,13 +1,21 @@
 # Generative AI Assisted Data Science
-* [Follow Dr Peter Leong on LinkedIn)](https://www.linkedin.com/in/peterleong)
+* [Follow Dr Peter Leong on LinkedIn](https://www.linkedin.com/in/peterleong)
 
 ## Short Courses
 * [Generative AI and ChatGPT for Business](https://www.sp.edu.sg/pace/courses/all-courses/course-details/generative-artificial-intelligence-ai-and-chat-generative-pre-training-transformer-chatgpt-for-business)
 * [Introduction to AI and Machine Learning](https://www.sp.edu.sg/pace/courses/all-courses/course-details/introduction-to-ai-and-machine-learning)
 * [Data Visualization with Tableau](https://www.sp.edu.sg/pace/courses/all-courses/course-details/data-visualization-with-tableau)
 
-## CET Courses
-
+## CET Courses (Part-time)
+* [Specialist Diploma in Data Science (Artificial Intelligence](https://www.sp.edu.sg/pace/courses/all-courses/course-details/specialist-diploma-in-data-science-(artificial-intelligence))
+* [Specialist Diploma in Data Protection and AI Governance](https://www.sp.edu.sg/pace/courses/all-courses/course-details/specialist-diploma-in-data-protection-ai-governance)
+* [Specialist Diploma in Full Stack Web Development](https://www.sp.edu.sg/pace/courses/all-courses/course-details/specialist-diploma-in-full-stack-web-development)
+* [Specialist Diploma in Cloud Computing (DevOps)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/specialist-diploma-in-cloud-computing-(devops))
+* [Specialist Diploma in Operational Technology Cybersecurity (Ethical Hacking and Incident Response)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/specialist-diploma-in-operational-technology-cybersecurity-(ethical-hacking-and-incident-response))
+**Part-time Diploma**
+* [Diploma in Infocomm & Digital Media (Cyber Security)](https://www.sp.edu.sg/pace/courses/all-courses/course-details/diploma-in-infocomm-digital-media-(cyber-security))
+**Diplma Conversion Program**
+* [Diploma (Conversion) in Web & Programming](https://www.sp.edu.sg/pace/courses/all-courses/course-details/diploma-(conversion)-in-web-and-programming)
 
 ## Introduction to Generative AI
 * [Generative AI in a Nutshell (YouTube)](https://www.youtube.com/watch?v=2IK3DFHRFfw)
