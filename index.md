@@ -1,4 +1,13 @@
 # Generative AI Assisted Data Science
+* [Follow Dr Peter Leong on LinkedIn)](https://www.linkedin.com/in/peterleong)
+
+## Short Courses
+* [Generative AI and ChatGPT for Business](https://www.sp.edu.sg/pace/courses/all-courses/course-details/generative-artificial-intelligence-ai-and-chat-generative-pre-training-transformer-chatgpt-for-business)
+* [Introduction to AI and Machine Learning](https://www.sp.edu.sg/pace/courses/all-courses/course-details/introduction-to-ai-and-machine-learning)
+* [Data Visualization with Tableau](https://www.sp.edu.sg/pace/courses/all-courses/course-details/data-visualization-with-tableau)
+
+## CET Courses
+
 
 ## Introduction to Generative AI
 * [Generative AI in a Nutshell (YouTube)](https://www.youtube.com/watch?v=2IK3DFHRFfw)
