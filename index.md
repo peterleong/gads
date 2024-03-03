@@ -40,7 +40,14 @@
 * [Gretel AI](https://gretel.ai/)
 * [SDV Synthetic Data Vault](https://sdv.dev/)
 * [Datacebo](https://datacebo.com/)
-* 
+* [Synthesis AI images+3D+digital humans](https://synthesis.ai/)
+* [Statice Anonos anonymized synthetic data](https://www.statice.ai/)
+* [YData AI privacy compliance](https://ydata.ai)
+* [Kinetic Vision images+simulation](https://kinetic-vision.com/services/artificial-intelligence/)
+* [Hazy privacy compliance](https://hazy.com/)
+* [Datagen human-centric synthetic data](https://datagen.tech/)
+* [MDClone balancing patient privacy, legal, compliance, and security issues](https://www.mdclone.com/services/synthetic-data/)
+  
 ### Synthetic Data (Case Studies)
 * [Case Study (Zipfian)](https://www.zipfianacademy.com/synthetic-data/)
 * [Case Study Linkedin Post](https://www.linkedin.com/pulse/future-data-how-synthetic-revolutionizing-industry-rick-spair--l4eje/?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
