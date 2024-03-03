@@ -34,6 +34,9 @@
   
   
 ## Generative AI Assistance for Data Science
+### Anomaly Detection
+* [Xenonstack GenAI Anomaly Detection](https://www.xenonstack.com/blog/use-of-generative-ai-to-detect-and-fix-data-anomalies)
+  
 ### Synthetic Data
 * [VAE Latent Space Explorer](https://taylordenouden.com/VAE-Latent-Space-Explorer/)
 * [Mostly AI](https://mostly.ai/)
