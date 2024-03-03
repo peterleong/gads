@@ -40,12 +40,18 @@
 * [Gretel AI](https://gretel.ai/)
 * [SDV Synthetic Data Vault](https://sdv.dev/)
 * [Datacebo](https://datacebo.com/)
+* 
 ### Synthetic Data (Case Studies)
 * [Case Study (Zipfian)](https://www.zipfianacademy.com/synthetic-data/)
 * [Case Study Linkedin Post](https://www.linkedin.com/pulse/future-data-how-synthetic-revolutionizing-industry-rick-spair--l4eje/?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
 * [Case Study (Vincent G Github)](https://github.com/VincentGranville/Main)
 * [Github repositories Synthetic Data](https://github.com/topics/synthetic-data)
 * [Github repositories Synthetic Data Generation](https://github.com/topics/synthetic-data-generation)
+
+  
+![Synthetic Data Market](https://www.grandviewresearch.com/static/img/research/north-america-synthetic-data-generation-market.png)
+
+![Synthetic Data Market Share](https://www.grandviewresearch.com/static/img/research/global-synthetic-data-generation-market.png)  
   
   
 ### Data visualization generation
