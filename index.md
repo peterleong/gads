@@ -44,7 +44,8 @@
 * [Case Study (Zipfian)](https://www.zipfianacademy.com/synthetic-data/)
 * [Case Study Linkedin Post](https://www.linkedin.com/pulse/future-data-how-synthetic-revolutionizing-industry-rick-spair--l4eje/?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
 * [Case Study (Vincent G Github)](https://github.com/VincentGranville/Main)
-* [Github repositories](https://github.com/topics/synthetic-data)
+* [Github repositories Synthetic Data](https://github.com/topics/synthetic-data)
+* [Github repositories Synthetic Data Generation](https://github.com/topics/synthetic-data-generation)
   
   
 ### Data visualization generation
