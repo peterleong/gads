@@ -34,9 +34,6 @@
   
   
 ## Generative AI Assistance for Data Science
-### Anomaly Detection
-* [Xenonstack GenAI Anomaly Detection](https://www.xenonstack.com/blog/use-of-generative-ai-to-detect-and-fix-data-anomalies)
-  
 ### Synthetic Data
 * [VAE Latent Space Explorer](https://taylordenouden.com/VAE-Latent-Space-Explorer/)
 * [Mostly AI](https://mostly.ai/)
@@ -57,7 +54,10 @@
 * [Case Study (Vincent G Github)](https://github.com/VincentGranville/Main)
 * [Github repositories Synthetic Data](https://github.com/topics/synthetic-data)
 * [Github repositories Synthetic Data Generation](https://github.com/topics/synthetic-data-generation)
-
+  
+### Anomaly Detection
+* [Xenonstack GenAI Anomaly Detection](https://www.xenonstack.com/blog/use-of-generative-ai-to-detect-and-fix-data-anomalies)
+  
   
 ![Synthetic Data Market](https://www.grandviewresearch.com/static/img/research/north-america-synthetic-data-generation-market.png)
 
@@ -86,7 +86,11 @@
 * [OpenAI ChatGPT](https://chat.openai.com/)
 * [Microsoft CoPilot (formerly Bing Chat)](https://copilot.microsoft.com/)
 * [Google Gemini (formerly Bard)](https://gemini.google.com/app)
-* [Pandas AI](https://docs.pandas-ai.com/en/latest/)
+#### Pandas AI
+* [Pandas AI](https://pandas-ai.com/)
+* [OpenAI API platform](https://platform.openai.com/docs/overview)
+* [Datacamp Introduction to Pandas AI](https://www.datacamp.com/blog/an-introduction-to-pandas-ai)
+* [Analytics Vidhya Talk to Your Dataset with Pandas AI](https://www.analyticsvidhya.com/blog/2023/06/talk-to-your-dataset-with-pandasai/)
   
   
 
