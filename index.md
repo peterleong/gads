@@ -1,5 +1,5 @@
 # Generative AI Assisted Data Science
-* [Webinar Handouts](tbdgadshandouts1.pdf)
+* [Webinar Handouts](gadshandouts1.pdf)
 * [Follow Dr Peter Leong on LinkedIn](https://www.linkedin.com/in/peterleong)
 
 ## Short Courses
